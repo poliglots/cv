@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-- Knowledge of TypeScript, Golang, Java and Python. 
+- Knowledge of TypeScript and Python. 
 - Expert in designing observable and traceable microservices. 
 - Experience in creating Responsive Web UIs using React and Tailwind CSS. 
 - Strong in creating cloud agnostic services deployable across multiple clouds. 
